@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- updated on 12th Oct
 
 <!---
 sathishk2908/sathishk2908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
